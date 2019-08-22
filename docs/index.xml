@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>home on Hugo Theme</title>
-    <link>https://example.com/</link>
+    <link>https://ankitasangodkar.github.io/hugo-demosite/</link>
     <description>Recent content in home on Hugo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 21 Aug 2019 11:40:16 +0530</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ankitasangodkar.github.io/hugo-demosite/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Us - Lorem</title>
-      <link>https://example.com/about/home-about/</link>
+      <link>https://ankitasangodkar.github.io/hugo-demosite/about/home-about/</link>
       <pubDate>Sun, 08 Jul 2018 11:35:34 +0900</pubDate>
       
-      <guid>https://example.com/about/home-about/</guid>
+      <guid>https://ankitasangodkar.github.io/hugo-demosite/about/home-about/</guid>
       <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae perspiciatis aspernatur quo. Voluptas iste dolore, possimus delectus ea facere natus laudantium quam error saepe quisquam voluptatibus cumque ab sint repellat! Nesciunt nisi soluta voluptatem mollitia facere amet impedit excepturi, dolor ducimus delectus repellat quas saepe fugit ad quaerat. Corporis nemo ex eos facilis doloribus architecto eligendi odio nobis. Soluta, ullam. Enim odit natus harum dolorum, dignissimos obcaecati aliquam inventore eaque impedit ad magnam totam minima illum libero iure ipsa ut quo?</description>
     </item>
     
     <item>
       <title>300&#43; Themes</title>
-      <link>https://example.com/services/home-service/</link>
+      <link>https://ankitasangodkar.github.io/hugo-demosite/services/home-service/</link>
       <pubDate>Wed, 21 Aug 2019 11:40:16 +0530</pubDate>
       
-      <guid>https://example.com/services/home-service/</guid>
+      <guid>https://ankitasangodkar.github.io/hugo-demosite/services/home-service/</guid>
       <description>Hugo provides a robust theming system that is easy to implement but capable of producing even the most complicated websites.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/contact/</link>
+      <link>https://ankitasangodkar.github.io/hugo-demosite/contact/contact/</link>
       <pubDate>Sun, 08 Jul 2018 11:35:34 +0900</pubDate>
       
-      <guid>https://example.com/contact/contact/</guid>
+      <guid>https://ankitasangodkar.github.io/hugo-demosite/contact/contact/</guid>
       <description>This is a sample page for contact us!</description>
     </item>
     
     <item>
       <title>My Second Post</title>
-      <link>https://example.com/2019/08/my-second-post/</link>
+      <link>https://ankitasangodkar.github.io/hugo-demosite/2019/08/my-second-post/</link>
       <pubDate>Wed, 21 Aug 2019 11:39:07 +0530</pubDate>
       
-      <guid>https://example.com/2019/08/my-second-post/</guid>
+      <guid>https://ankitasangodkar.github.io/hugo-demosite/2019/08/my-second-post/</guid>
       <description>Lorem ipsum summary of the post. Lorem ipsum rest of the post. Lorem ipsum summary of the post. Lorem ipsum rest of the post. Lorem ipsum summary of the post. Lorem ipsum rest of the post.</description>
     </item>
     
     <item>
       <title>My First Post</title>
-      <link>https://example.com/2019/07/my-first-post/</link>
+      <link>https://ankitasangodkar.github.io/hugo-demosite/2019/07/my-first-post/</link>
       <pubDate>Sun, 21 Jul 2019 11:39:07 +0530</pubDate>
       
-      <guid>https://example.com/2019/07/my-first-post/</guid>
+      <guid>https://ankitasangodkar.github.io/hugo-demosite/2019/07/my-first-post/</guid>
       <description>Lorem ipsum summary of the post. Lorem ipsum rest of the post. Lorem ipsum summary of the post. Lorem ipsum rest of the post. Lorem ipsum summary of the post. Lorem ipsum rest of the post.</description>
     </item>
     
     <item>
       <title>My Third Post</title>
-      <link>https://example.com/2019/06/my-third-post/</link>
+      <link>https://ankitasangodkar.github.io/hugo-demosite/2019/06/my-third-post/</link>
       <pubDate>Fri, 21 Jun 2019 11:39:07 +0530</pubDate>
       
-      <guid>https://example.com/2019/06/my-third-post/</guid>
+      <guid>https://ankitasangodkar.github.io/hugo-demosite/2019/06/my-third-post/</guid>
       <description>Lorem ipsum summary of the post. Lorem ipsum rest of the post. Lorem ipsum summary of the post. Lorem ipsum rest of the post. Lorem ipsum summary of the post. Lorem ipsum rest of the post.</description>
     </item>
     
     <item>
       <title>Home</title>
-      <link>https://example.com/home/</link>
+      <link>https://ankitasangodkar.github.io/hugo-demosite/home/</link>
       <pubDate>Sun, 08 Jul 2018 11:32:40 +0900</pubDate>
       
-      <guid>https://example.com/home/</guid>
+      <guid>https://ankitasangodkar.github.io/hugo-demosite/home/</guid>
       <description></description>
     </item>
     

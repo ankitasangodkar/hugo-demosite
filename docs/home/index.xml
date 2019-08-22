@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>home on Hugo Theme</title>
-    <link>https://example.com/home/</link>
+    <link>https://ankitasangodkar.github.io/hugo-demosite/home/</link>
     <description>Recent content in home on Hugo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 21 Aug 2019 11:40:16 +0530</lastBuildDate>
     
-	<atom:link href="https://example.com/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ankitasangodkar.github.io/hugo-demosite/home/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

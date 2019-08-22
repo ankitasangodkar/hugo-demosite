@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Hugo Theme</title>
-    <link>https://example.com/services/</link>
+    <link>https://ankitasangodkar.github.io/hugo-demosite/services/</link>
     <description>Recent content in Services on Hugo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 21 Aug 2019 11:40:16 +0530</lastBuildDate>
     
-	<atom:link href="https://example.com/services/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ankitasangodkar.github.io/hugo-demosite/services/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>300&#43; Themes</title>
-      <link>https://example.com/services/home-service/</link>
+      <link>https://ankitasangodkar.github.io/hugo-demosite/services/home-service/</link>
       <pubDate>Wed, 21 Aug 2019 11:40:16 +0530</pubDate>
       
-      <guid>https://example.com/services/home-service/</guid>
+      <guid>https://ankitasangodkar.github.io/hugo-demosite/services/home-service/</guid>
       <description>Hugo provides a robust theming system that is easy to implement but capable of producing even the most complicated websites.</description>
     </item>
     
