@@ -7088,3 +7088,7 @@ a.text-dark:hover, a.text-dark:focus {
   @media (max-width: 991px) {
     .posts {
       display: block; } }
+
+.page header {
+  background: #c09767;
+  color: white; }
