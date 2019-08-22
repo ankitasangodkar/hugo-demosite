@@ -1,0 +1,50 @@
+<div class="featured-image position-relative" style="background-image: url('{{ .Params.featured_image }}')">
+	<div class="overlay"></div>
+	<div class="slider-title">
+		{{ .Content }}
+	</div>
+</div>
+
+<div class="container">
+ 	{{ range where .Data.Pages "Section" "about" }}
+        <article class="about about--{{ .Params.class }}">
+            <h2 class="section__title">{{ .Title }}</h2>
+            <section class="section__content">
+                {{ .Content }}
+            </section>
+        </article>
+    {{ end }}
+</div>
+
+<div class="posts row flex-nowrap">
+	{{ range where .Data.Pages.Reverse "Section" "posts" }}    
+	  	<div class="post overflow-hidden text-center">
+		    {{ if .Date }}
+		      <div class="f6">
+		        {{ .Date.Format "January 2, 2006" }}
+		      </div>
+		    {{ end }}
+		    <div class="nested-links f5 lh-copy nested-copy-line-height post__content">
+		      {{ .Summary  }}
+		    </div>
+		</div>
+	{{ end }}
+</div>
+
+<div class="container">
+    {{ range where .Data.Pages "Section" "services" }}
+    	<div class="services">
+		 	<div class="row">
+			 	<div class="col-lg-4 col-md-4 col-sm-12">
+        		<img src="img/homepage-screenshot.jpg" class="img-fluid" />
+			 	</div>
+			 	<div class="col-lg-8 col-md-8 col-sm-12 align-self-center">
+			 	<h2 class="section__title">{{ .Title }}</h2>
+			 	<section class="section__content">
+                	{{ .Content }}
+            	</section>
+		 		</div>	
+	 		</div>
+    	</div>
+    {{ end }}
+</div>
