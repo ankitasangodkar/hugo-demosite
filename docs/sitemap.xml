@@ -3,81 +3,81 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://localhost:1313/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2019-08-21T11:40:16+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://localhost:1313/home/</loc>
+    <loc>https://example.com/home/</loc>
     <lastmod>2019-08-21T11:40:16+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://localhost:1313/about/home-about/</loc>
+    <loc>https://example.com/about/home-about/</loc>
     <lastmod>2018-07-08T11:35:34+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://localhost:1313/services/home-service/</loc>
+    <loc>https://example.com/services/home-service/</loc>
     <lastmod>2019-08-21T11:40:16+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://localhost:1313/contact/contact/</loc>
+    <loc>https://example.com/contact/contact/</loc>
     <lastmod>2018-07-08T11:35:34+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://localhost:1313/services/</loc>
+    <loc>https://example.com/services/</loc>
     <lastmod>2019-08-21T11:40:16+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://localhost:1313/2019/08/my-second-post/</loc>
+    <loc>https://example.com/2019/08/my-second-post/</loc>
     <lastmod>2019-08-21T11:39:07+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://localhost:1313/posts/</loc>
+    <loc>https://example.com/posts/</loc>
     <lastmod>2019-08-21T11:39:07+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://localhost:1313/2019/07/my-first-post/</loc>
+    <loc>https://example.com/2019/07/my-first-post/</loc>
     <lastmod>2019-07-21T11:39:07+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://localhost:1313/2019/06/my-third-post/</loc>
+    <loc>https://example.com/2019/06/my-third-post/</loc>
     <lastmod>2019-06-21T11:39:07+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://localhost:1313/about/</loc>
+    <loc>https://example.com/about/</loc>
     <lastmod>2018-07-08T11:35:34+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://localhost:1313/contact/</loc>
+    <loc>https://example.com/contact/</loc>
     <lastmod>2018-07-08T11:35:34+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://localhost:1313/home/</loc>
+    <loc>https://example.com/home/</loc>
     <lastmod>2018-07-08T11:32:40+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://localhost:1313/categories/</loc>
+    <loc>https://example.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://localhost:1313/tags/</loc>
+    <loc>https://example.com/tags/</loc>
     <priority>0</priority>
   </url>
   
