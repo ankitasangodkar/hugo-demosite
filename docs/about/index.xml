@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Hugo Theme</title>
+    <link>https://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Hugo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 08 Jul 2018 11:35:34 +0900</lastBuildDate>
+    
+	<atom:link href="https://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us - Lorem</title>
+      <link>https://localhost:1313/about/home-about/</link>
+      <pubDate>Sun, 08 Jul 2018 11:35:34 +0900</pubDate>
+      
+      <guid>https://localhost:1313/about/home-about/</guid>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae perspiciatis aspernatur quo. Voluptas iste dolore, possimus delectus ea facere natus laudantium quam error saepe quisquam voluptatibus cumque ab sint repellat! Nesciunt nisi soluta voluptatem mollitia facere amet impedit excepturi, dolor ducimus delectus repellat quas saepe fugit ad quaerat. Corporis nemo ex eos facilis doloribus architecto eligendi odio nobis. Soluta, ullam. Enim odit natus harum dolorum, dignissimos obcaecati aliquam inventore eaque impedit ad magnam totam minima illum libero iure ipsa ut quo?</description>
+    </item>
+    
+  </channel>
+</rss>

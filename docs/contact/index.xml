@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on Hugo Theme</title>
+    <link>https://localhost:1313/contact/</link>
+    <description>Recent content in Contacts on Hugo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 08 Jul 2018 11:35:34 +0900</lastBuildDate>
+    
+	<atom:link href="https://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://localhost:1313/contact/contact/</link>
+      <pubDate>Sun, 08 Jul 2018 11:35:34 +0900</pubDate>
+      
+      <guid>https://localhost:1313/contact/contact/</guid>
+      <description>This is a sample page for contact us!</description>
+    </item>
+    
+  </channel>
+</rss>

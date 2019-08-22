@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo Theme</title>
+    <link>https://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Hugo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 21 Aug 2019 11:39:07 +0530</lastBuildDate>
+    
+	<atom:link href="https://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Second Post</title>
+      <link>https://localhost:1313/2019/08/my-second-post/</link>
+      <pubDate>Wed, 21 Aug 2019 11:39:07 +0530</pubDate>
+      
+      <guid>https://localhost:1313/2019/08/my-second-post/</guid>
+      <description>Lorem ipsum summary of the post. Lorem ipsum rest of the post. Lorem ipsum summary of the post. Lorem ipsum rest of the post. Lorem ipsum summary of the post. Lorem ipsum rest of the post.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://localhost:1313/2019/07/my-first-post/</link>
+      <pubDate>Sun, 21 Jul 2019 11:39:07 +0530</pubDate>
+      
+      <guid>https://localhost:1313/2019/07/my-first-post/</guid>
+      <description>Lorem ipsum summary of the post. Lorem ipsum rest of the post. Lorem ipsum summary of the post. Lorem ipsum rest of the post. Lorem ipsum summary of the post. Lorem ipsum rest of the post.</description>
+    </item>
+    
+    <item>
+      <title>My Third Post</title>
+      <link>https://localhost:1313/2019/06/my-third-post/</link>
+      <pubDate>Fri, 21 Jun 2019 11:39:07 +0530</pubDate>
+      
+      <guid>https://localhost:1313/2019/06/my-third-post/</guid>
+      <description>Lorem ipsum summary of the post. Lorem ipsum rest of the post. Lorem ipsum summary of the post. Lorem ipsum rest of the post. Lorem ipsum summary of the post. Lorem ipsum rest of the post.</description>
+    </item>
+    
+  </channel>
+</rss>

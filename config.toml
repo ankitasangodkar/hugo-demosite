@@ -1,6 +1,7 @@
 baseURL = "https://localhost:1313/"
 title = "Hugo Theme"
 theme = "demo-theme"
+publishDir = "docs"
 
 [params]
   AuthorName = "Demo"
