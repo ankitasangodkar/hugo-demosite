@@ -11,6 +11,9 @@
             <h2 class="section__title">{{ .Title }}</h2>
             <section class="section__content">
                 {{ .Content }}
+	            <div class="cta">
+	            	<a href="{{ .Site.BaseURL }}about"> Read More </a>
+	            </div>
             </section>
         </article>
     {{ end }}

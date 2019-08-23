@@ -6,5 +6,5 @@ weight: 1
 featured_image : "./img/slider-img.jpg"
 ---
 
-Welcome to <br>
+Welcome to  
 Custom Hugo

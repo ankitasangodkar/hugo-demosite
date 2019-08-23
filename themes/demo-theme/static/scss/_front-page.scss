@@ -39,6 +39,7 @@
     padding: 0 2.5rem;
 	background: black;
     width: 100%;
+    margin-left: 0;
 	.post{
 		color: white;
 		padding: 20px;
@@ -56,4 +57,19 @@
 	@media (max-width: 991px){
 		display: block;
 	}
+}
+.cta{
+    border: 1px solid #ff7f50;
+    padding: 12px 16px;
+    display: inline;
+    a{
+	    color: black;
+	    &:hover{
+	    	color: white;
+	    	text-decoration: none;
+	    }
+    }
+    &:hover{
+    	background: #ff7f50;
+    }
 }

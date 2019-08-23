@@ -1,10 +1,39 @@
 <div class="page">
 	<header>
-		<h1 class="container page-title">
+		<h2 class="container page-title">
 			{{ .Title }}
-		</h1>
+		</h2>
 	</header>
-	<div class="">
-		{{ .Content }}
+	<div class="featured-image position-relative" style="background-image: url('{{ .Params.featured_image }}')">
+		<div class="overlay"></div>
+		<div class="page-header">
+			{{ .Content }}
+		</div>
+	</div>
+
+
+	<!-- About -->
+	<div class="container">
+	 	{{ range where .Data.Pages "Section" "about" }}
+	        <article class="about about--{{ .Params.class }}">
+	            <h2 class="section__title">{{ .Title }}</h2>
+	            <section class="section__content">
+	                {{ .Content }}
+	            </section>
+	        </article>
+	    {{ end }}
+	</div>
+
+
+	<!-- Contact -->
+	<div class="container">
+	 	{{ range where .Data.Pages "Section" "contact" }}
+	        <article class="about about--{{ .Params.class }}">
+	            <h2 class="section__title">{{ .Title }}</h2>
+	            <section class="section__content">
+	                {{ .Content }}
+	            </section>
+	        </article>
+	    {{ end }}
 	</div>
 </div>

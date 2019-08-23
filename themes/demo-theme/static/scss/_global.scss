@@ -2,5 +2,17 @@
 	header{
 	    background: #c09767;
     	color: white;
+	    padding: 10px;
+	}
+	.featured-image{
+		height: 300px;
+		.page-header{
+		    position: absolute;
+		    top: 45%;
+		    color: white;
+		    text-align: center;
+		    width: 100%;
+	        padding: 0 30px;
+		}
 	}
 }
