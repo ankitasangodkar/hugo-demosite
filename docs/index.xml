@@ -11,12 +11,21 @@
     
     
     <item>
+      <title>Get In Touch</title>
+      <link>https://ankitasangodkar.github.io/hugo-demosite/contact/contact-section/</link>
+      <pubDate>Wed, 21 Aug 2019 11:40:16 +0530</pubDate>
+      
+      <guid>https://ankitasangodkar.github.io/hugo-demosite/contact/contact-section/</guid>
+      <description>Address: Lorem Porem, City stay, State, Pincode, Country  Email Id: example@gmail.com  Contact Number: 9090909090</description>
+    </item>
+    
+    <item>
       <title>About Us - Lorem</title>
       <link>https://ankitasangodkar.github.io/hugo-demosite/about/home-about/</link>
       <pubDate>Sun, 08 Jul 2018 11:35:34 +0900</pubDate>
       
       <guid>https://ankitasangodkar.github.io/hugo-demosite/about/home-about/</guid>
-      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae perspiciatis aspernatur quo. Voluptas iste dolore, possimus delectus ea facere natus laudantium quam error saepe quisquam voluptatibus cumque ab sint repellat! Nesciunt nisi soluta voluptatem mollitia facere amet impedit excepturi, dolor ducimus delectus repellat quas saepe fugit ad quaerat. Corporis nemo ex eos facilis doloribus architecto eligendi odio nobis. Soluta, ullam. Enim odit natus harum dolorum, dignissimos obcaecati aliquam inventore eaque impedit ad magnam totam minima illum libero iure ipsa ut quo?</description>
+      <description>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae perspiciatis aspernatur quo. Voluptas iste dolore, possimus delectus ea facere natus laudantium quam error saepe quisquam voluptatibus cumque ab sint repellat! Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae perspiciatis aspernatur quo. Voluptas iste dolore, possimus delectus ea facere natus laudantium quam error saepe quisquam voluptatibus cumque ab sint repellat!</description>
     </item>
     
     <item>
@@ -26,15 +35,6 @@
       
       <guid>https://ankitasangodkar.github.io/hugo-demosite/services/home-service/</guid>
       <description>Hugo provides a robust theming system that is easy to implement but capable of producing even the most complicated websites.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://ankitasangodkar.github.io/hugo-demosite/contact/contact/</link>
-      <pubDate>Sun, 08 Jul 2018 11:35:34 +0900</pubDate>
-      
-      <guid>https://ankitasangodkar.github.io/hugo-demosite/contact/contact/</guid>
-      <description>This is a sample page for contact us!</description>
     </item>
     
     <item>

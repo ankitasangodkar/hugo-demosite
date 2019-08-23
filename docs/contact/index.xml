@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Contacts on Hugo Theme</title>
+    <title>Contact Us on Hugo Theme</title>
     <link>https://ankitasangodkar.github.io/hugo-demosite/contact/</link>
-    <description>Recent content in Contacts on Hugo Theme</description>
+    <description>Recent content in Contact Us on Hugo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 08 Jul 2018 11:35:34 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 11:40:16 +0530</lastBuildDate>
     
 	<atom:link href="https://ankitasangodkar.github.io/hugo-demosite/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Contact</title>
-      <link>https://ankitasangodkar.github.io/hugo-demosite/contact/contact/</link>
-      <pubDate>Sun, 08 Jul 2018 11:35:34 +0900</pubDate>
+      <title>Get In Touch</title>
+      <link>https://ankitasangodkar.github.io/hugo-demosite/contact/contact-section/</link>
+      <pubDate>Wed, 21 Aug 2019 11:40:16 +0530</pubDate>
       
-      <guid>https://ankitasangodkar.github.io/hugo-demosite/contact/contact/</guid>
-      <description>This is a sample page for contact us!</description>
+      <guid>https://ankitasangodkar.github.io/hugo-demosite/contact/contact-section/</guid>
+      <description>Address: Lorem Porem, City stay, State, Pincode, Country  Email Id: example@gmail.com  Contact Number: 9090909090</description>
     </item>
     
   </channel>
