@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo Theme</title>
+    <title>Blog List on Hugo Theme</title>
     <link>https://ankitasangodkar.github.io/hugo-demosite/posts/</link>
-    <description>Recent content in Posts on Hugo Theme</description>
+    <description>Recent content in Blog List on Hugo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 21 Aug 2019 11:39:07 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 11:40:16 +0530</lastBuildDate>
     
 	<atom:link href="https://ankitasangodkar.github.io/hugo-demosite/posts/index.xml" rel="self" type="application/rss+xml" />
     

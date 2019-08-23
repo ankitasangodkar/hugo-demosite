@@ -24,6 +24,26 @@
 	    {{ end }}
 	</div>
 
+	<!-- Blog -->
+	<div class="container all-posts">
+		{{ range where .Data.Pages "Section" "posts" }}    
+		  	<div class="p-4 m-4 mid-gray overflow-hidden">
+		    	{{ if .Date }}
+		      	<div class="f6 post-date">
+		        	{{ .Date.Format "January 2, 2006" }}
+		      	</div>
+	    		{{ end }}
+		    	<h1 class="f3 near-black post-heading">
+		      		<a href="{{ .URL }}" class="link black dim">
+		        	{{ .Title }}
+		      		</a>
+		    	</h1>
+			    <div class="nested-links f5 lh-copy nested-copy-line-height post-content">
+			      	{{ .Summary  }}
+			    </div>
+		  </div>
+		{{ end }}
+	</div>
 
 	<!-- Contact -->
 	<div class="container">

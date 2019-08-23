@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://ankitasangodkar.github.io/hugo-demosite/posts/</loc>
+    <lastmod>2019-08-21T11:40:16+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ankitasangodkar.github.io/hugo-demosite/contact/</loc>
     <lastmod>2019-08-21T11:40:16+05:30</lastmod>
   </url>
@@ -46,12 +51,6 @@
   <url>
     <loc>https://ankitasangodkar.github.io/hugo-demosite/2019/08/my-second-post/</loc>
     <lastmod>2019-08-21T11:39:07+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ankitasangodkar.github.io/hugo-demosite/posts/</loc>
-    <lastmod>2019-08-21T11:39:07+05:30</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
