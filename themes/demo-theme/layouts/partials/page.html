@@ -11,10 +11,10 @@
 		</div>
 	</div>
 
-
-	<!-- About -->
 	<div class="container">
-	 	{{ range where .Data.Pages "Section" "about" }}
+
+		<!-- About -->
+	 	{{range where .Data.Pages "Section" "about" }}
 	        <article class="about about--{{ .Params.class }}">
 	            <h2 class="section__title">{{ .Title }}</h2>
 	            <section class="section__content">
@@ -22,11 +22,21 @@
 	            </section>
 	        </article>
 	    {{ end }}
-	</div>
 
-	<!-- Blog -->
-	<div class="container all-posts">
-		{{ range where .Data.Pages "Section" "posts" }}    
+
+		<!-- Contact -->
+	 	{{ range where .Data.Pages "Section" "contact" }}
+	        <article class="contact contact--{{ .Params.class }}">
+	            <h2 class="section__title">{{ .Title }}</h2>
+	            <section class="section__content">
+	                {{ .Content }}
+	            </section>
+	        </article>
+	    {{ end }}
+
+		<!-- Blog -->
+		{{ range where .Data.Pages "Section" "posts" }}
+		<div class="all-posts">    
 		  	<div class="p-4 m-4 mid-gray overflow-hidden">
 		    	{{ if .Date }}
 		      	<div class="f6 post-date">
@@ -41,19 +51,8 @@
 			    <div class="nested-links f5 lh-copy nested-copy-line-height post-content">
 			      	{{ .Summary  }}
 			    </div>
-		  </div>
+		  	</div>
+		 </div>
 		{{ end }}
-	</div>
-
-	<!-- Contact -->
-	<div class="container">
-	 	{{ range where .Data.Pages "Section" "contact" }}
-	        <article class="about about--{{ .Params.class }}">
-	            <h2 class="section__title">{{ .Title }}</h2>
-	            <section class="section__content">
-	                {{ .Content }}
-	            </section>
-	        </article>
-	    {{ end }}
 	</div>
 </div>
