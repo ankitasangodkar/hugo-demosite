@@ -7021,7 +7021,11 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 #navbarNav {
-  justify-content: flex-end; }
+  justify-content: flex-end;
+  -webkit-transition: .4s all linear;
+  -moz-transition: .4s all linear;
+  -o-transition: .4s all linear;
+  transition: .4s all linear; }
 
 #footer {
   padding: 10px; }

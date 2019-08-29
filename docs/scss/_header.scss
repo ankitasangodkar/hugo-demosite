@@ -1,3 +1,7 @@
 #navbarNav{
 	justify-content: flex-end;
+	-webkit-transition: .4s all linear;
+	-moz-transition: .4s all linear;
+	-o-transition: .4s all linear;
+	transition: .4s all linear;
 }
